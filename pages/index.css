@@ -18,7 +18,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
-  min-height: 720;
+  min-height: 720px;
   max-height: 800px;
   z-index: 1;
 }
@@ -35,7 +35,7 @@
   position: relative;
   top: 30px;
   left: 30px;
-  height: 142;
+  height: 142px;
   width: 125px;
 }
 
