@@ -13,4 +13,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I think a great way to improve the styling to this project and to help use this project on a portfolio would be to have a diffrent header structure than the first project. While I do think it is a good idea for students to be able to refferance the first project to help get started on project 2, perhaps changing the background colors to be a reverse gradient to the footer to give the webpage a fluid apperance. 
